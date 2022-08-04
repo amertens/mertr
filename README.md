@@ -19,3 +19,5 @@ To add (all exist in other repos):
 -missing imputation with added indicators
 
 -proportion not missing
+
+-shiny app of point+CI plots with editable X,Y, group, and facet parameters
